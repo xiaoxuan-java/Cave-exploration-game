@@ -8,7 +8,6 @@ xiaoxuan_java(xiaoxuan-java)拥有所有权
 
 English:(Translator Translation)
 
-This is a cave exploration game, designed in the style of the game Minecraft.Core gameplay: A little character collects resources throughout the cave and crafts items.
-Defeat the boss to complete the game.Note: The game contains horror and violence elements (bosses, storyline). Players should consider this carefully!
+This is a cave exploration game, designed in the style of the game Minecraft. The core gameplay involves players collecting resources throughout the cave, crafting items, and defeating bosses to ultimately succeed. Note: The game contains horror and violence elements (bosses, storyline), so please consider this carefully!
 
 Copyright owned by xiaoxuan_java (xiaoxuan-java)
