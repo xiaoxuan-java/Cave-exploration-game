@@ -1,6 +1,6 @@
 中文：
 
-Cave-exploration-game（洞穴探险游戏）
+📄Cave-exploration-game（洞穴探险游戏）
 一、游戏概述
 •	游戏名称：Cave-exploration-game（可暂译为《深渊矿影》或《地心诡途》）
 •	游戏类型：第一人称/第三人称洞穴探险、生存、恐怖、动作冒险
